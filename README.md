@@ -15,8 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AbbasHaq99/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0782-jewels-and-stones](https://github.com/AbbasHaq99/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AbbasHaq99/LeetCode/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/AbbasHaq99/LeetCode/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
