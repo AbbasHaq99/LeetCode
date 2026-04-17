@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/AbbasHaq99/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/AbbasHaq99/LeetCode/tree/master/0141-linked-list-cycle) |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/AbbasHaq99/LeetCode/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/AbbasHaq99/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/AbbasHaq99/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0782-jewels-and-stones](https://github.com/AbbasHaq99/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Math
