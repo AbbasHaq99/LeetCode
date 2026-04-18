@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbbasHaq99/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/AbbasHaq99/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0704-binary-search](https://github.com/AbbasHaq99/LeetCode/tree/main/0704-binary-search/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbbasHaq99/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/AbbasHaq99/LeetCode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
