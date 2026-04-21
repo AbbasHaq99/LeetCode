@@ -5,21 +5,13 @@
 #         self.next = next
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        curr = head
-        prev = None
 
-        # Traverse all the nodes of Linked List
-        while curr is not None:
+        prev, curr = None, head
 
-            # Store next
-            nextNode = curr.next
-
-            # Reverse current node's next pointer
+        while curr:
+            nxt = curr.next
             curr.next = prev
-
-            # Move pointers one position ahead
             prev = curr
-            curr = nextNode
-
-        # Return the head of reversed linked list
+            curr = nxt
+        
         return prev
